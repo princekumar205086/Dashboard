@@ -1,0 +1,4 @@
+NEXT_GOOGLE_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxx
+NEXT_GOOGLE_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxx
+NEXTAUTH_SECRET=xxxxxxxxxxx
+NEXTAUTH_URL=http://localhost:3000
